@@ -1,0 +1,4 @@
+networkx==2.5
+nltk==3.6.1
+numpy==1.22.2
+streamlit==1.12.2
